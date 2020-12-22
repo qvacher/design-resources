@@ -86,5 +86,7 @@ Website | Description
 ------------ | -------------
 [Behance](https://unsplash.com/) | Design projects featured by different creators
 [FrontEnd Mentor](https://www.frontendmentor.io/) | Real-world UI Challenges using HTML, CSS and Javascript
+[Dribbble](https://dribbble.com/) | Design projects featured by different creators
+[Awwwards](https://www.awwwards.com/) | A website that rate and collects the best websites in the world in UI
 
 [Back to top ↑](#Table-of-contents)
