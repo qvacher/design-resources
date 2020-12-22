@@ -9,6 +9,7 @@ List of UI and Design resources from templates, CSS frameworks, stock photos, to
 * [Vectors](#Vectors)
 * [UI graphics](#UI-graphics)
 * [Design inspiration](#Design-inspiration)
+* [CSS frameworks](#CSS-frameworks)
 
 ## Colors
 > Resources helping with colors
@@ -87,6 +88,18 @@ Website | Description
 [Behance](https://unsplash.com/) | Design projects featured by different creators
 [FrontEnd Mentor](https://www.frontendmentor.io/) | Real-world UI Challenges using HTML, CSS and Javascript
 [Dribbble](https://dribbble.com/) | Design projects featured by different creators
+[Awwwards](https://www.awwwards.com/) | A website that rate and collects the best websites in the world in UI
+
+[Back to top ↑](#Table-of-contents)
+
+## CSS frameworks
+> Resources for design inspiration
+
+Website | Description
+------------ | -------------
+[Bootstrap](https://getbootstrap.com/) | Popular UI framework with tons of components that use both CSS and JS
+[Materialize](https://materializecss.com/) | A modern responsive front-end framework based on Material Design
+[Tailwind](https://tailwindcss.com/) | Low level, utility-first framework
 [Awwwards](https://www.awwwards.com/) | A website that rate and collects the best websites in the world in UI
 
 [Back to top ↑](#Table-of-contents)
