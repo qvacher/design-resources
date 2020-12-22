@@ -16,6 +16,11 @@ Website | Description
 ------------ | -------------
 [FlatUI Colors](https://flatuicolors.com/) | Beautiful set of color palettes in various flavors
 [Adobe Color](https://color.adobe.com/create) | Create color palettes, extract gradients from images, etc.
+[Web Gradients](https://webgradients.com/) | A free website to find good CSS gradients
+[Colormind.io](http://colormind.io/) | Color palette generator
+[Google Material Color Tool](https://material.io/resources/color/) | Official Google Material Color Palette Tool
+
+[Back to top](#Table-of-contents)
 
 ## Fonts
 > Websites offering free fonts as well as font-based tools
@@ -32,6 +37,8 @@ Website | Description
 ------------ | -------------
 [Iconmonstr](https://iconmonstr.com/) | Discover 4496+ free icons in 313 collections
 [The Noun Project](https://thenounproject.com/) | Over 2 Million curated icons, created by a global community
+[Flat Icon](https://www.flaticon.com/) | The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats
+[Bootstrap Icons](https://icons.getbootstrap.com/) | Free Icons built for Bootstrap but they'll work in any project
 
 ## Stock photos
 > Websites offering free stock photos of all kinds for your websites and apps
@@ -57,3 +64,5 @@ Website | Description
 ------------ | -------------
 [Behance](https://unsplash.com/) | Design projects featured by different creators
 [FrontEnd Mentor](https://www.frontendmentor.io/) | Real-world UI Challenges using HTML, CSS and Javascript
+
+[Back to top](#Table-of-contents)
