@@ -2,7 +2,7 @@
 List of UI and Design resources from templates, CSS frameworks, stock photos, tools and more
 
 ## Table of contents
-* Colors
+* [Colors](#Colors)
 * Fonts
 * Icons
 * Stock photos
