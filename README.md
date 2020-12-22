@@ -65,4 +65,4 @@ Website | Description
 [Behance](https://unsplash.com/) | Design projects featured by different creators
 [FrontEnd Mentor](https://www.frontendmentor.io/) | Real-world UI Challenges using HTML, CSS and Javascript
 
-[Back to top](#Table-of-contents)
+[Back to top ↑](#Table-of-contents)
