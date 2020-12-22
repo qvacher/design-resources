@@ -100,6 +100,5 @@ Website | Description
 [Bootstrap](https://getbootstrap.com/) | Popular UI framework with tons of components that use both CSS and JS
 [Materialize](https://materializecss.com/) | A modern responsive front-end framework based on Material Design
 [Tailwind](https://tailwindcss.com/) | Low level, utility-first framework
-[Awwwards](https://www.awwwards.com/) | A website that rate and collects the best websites in the world in UI
 
 [Back to top ↑](#Table-of-contents)
