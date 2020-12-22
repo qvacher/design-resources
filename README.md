@@ -6,6 +6,7 @@ List of UI and Design resources from templates, CSS frameworks, stock photos, to
 * [Fonts](#Fonts)
 * [Icons](#Icons)
 * [Stock photos](#Stock-photos)
+* [Vectors](#Vectors)
 * [UI graphics](#UI-graphics)
 * [Design inspiration](#Design-inspiration)
 
@@ -19,6 +20,7 @@ Website | Description
 [Web Gradients](https://webgradients.com/) | A free website to find good CSS gradients
 [Colormind.io](http://colormind.io/) | Color palette generator
 [Google Material Color Tool](https://material.io/resources/color/) | Official Google Material Color Palette Tool
+[HTML Color Codes](https://htmlcolorcodes.com/) | Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names
 
 [Back to top ↑](#Table-of-contents)
 
@@ -51,6 +53,18 @@ Website | Description
 ------------ | -------------
 [Unsplash](https://unsplash.com/) | The internet’s source of freely usable images
 [Pixabay](https://pixabay.com/) | Over 1.7 million+ high-quality stock images and videos
+[Placeholder](https://placeholder.com/) | A free image placeholder service for the web. You can specify image size and format
+
+[Back to top ↑](#Table-of-contents)
+
+## Vectors
+> Free vectors, clipart, illustrations, patterns and more
+
+Website | Description
+------------ | -------------
+[Freepik](https://www.freepik.com/) | Free vectors, stock photos, PSD and icons
+[Vecteezy](https://www.vecteezy.com/) | Find and download free vector art
+[unDraw](https://undraw.co/) | Open-source illustrations for any idea you can imagine and create
 
 [Back to top ↑](#Table-of-contents)
 
