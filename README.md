@@ -5,9 +5,9 @@ List of UI and Design resources from templates, CSS frameworks, stock photos, to
 * [Colors](#Colors)
 * [Fonts](#Fonts)
 * [Icons](#Icons)
-* [Stock photos](#Stock)
-* [UI graphics](#UI)
-* [Design inspiration](#Design)
+* [Stock photos](#Stock photos)
+* [UI graphics](#UI graphics)
+* [Design inspiration](#Design inspiration)
 
 ## Colors
 > Resources helping with colors
