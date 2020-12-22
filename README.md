@@ -20,7 +20,7 @@ Website | Description
 [Colormind.io](http://colormind.io/) | Color palette generator
 [Google Material Color Tool](https://material.io/resources/color/) | Official Google Material Color Palette Tool
 
-[Back to top](#Table-of-contents)
+[Back to top ↑](#Table-of-contents)
 
 ## Fonts
 > Websites offering free fonts as well as font-based tools
@@ -29,6 +29,8 @@ Website | Description
 ------------ | -------------
 [Google Fonts](https://fonts.google.com/) | Library of around 1000 free licensed font families
 [Dafont](https://www.dafont.com/) | Archive of freely downloadable fonts
+
+[Back to top ↑](#Table-of-contents)
 
 ## Icons
 > Resources for icons including png, svg and more
@@ -40,6 +42,8 @@ Website | Description
 [Flat Icon](https://www.flaticon.com/) | The largest database of free icons in PNG, SVG, EPS, PSD and BASE 64 formats
 [Bootstrap Icons](https://icons.getbootstrap.com/) | Free Icons built for Bootstrap but they'll work in any project
 
+[Back to top ↑](#Table-of-contents)
+
 ## Stock photos
 > Websites offering free stock photos of all kinds for your websites and apps
 
@@ -47,6 +51,8 @@ Website | Description
 ------------ | -------------
 [Unsplash](https://unsplash.com/) | The internet’s source of freely usable images
 [Pixabay](https://pixabay.com/) | Over 1.7 million+ high-quality stock images and videos
+
+[Back to top ↑](#Table-of-contents)
 
 ## UI graphics
 > Websites and resources with modern UI components in different formats such as PSD, Sketch, Figma, etc. 
@@ -56,6 +62,8 @@ Website | Description
 ------------ | -------------
 [UI Desgin Daily](https://uidesigndaily.com/) | Awesome UI Components of all types
 [100 Daily UI](https://100dailyui.webflow.io/) | Free Figma library of products, elements, and screens
+
+[Back to top ↑](#Table-of-contents)
 
 ## Design inspiration
 > Resources for design inspiration
